@@ -1,0 +1,1 @@
+Usage: sync the contents of this repo in `~/Library/Developer/Xcode/UserData/`

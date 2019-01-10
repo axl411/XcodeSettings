@@ -1,0 +1,14 @@
+# Ignore everything:
+*
+
+# Except for the following:
+!README.md
+!.gitignore
+!CodeSnippets
+!CodeSnippets/*.codesnippet
+!FontAndColorThemes
+!FontAndColorThemes/*.xccolortheme
+!KeyBindings
+!KeyBindings/*.idekeybindings
+!xcdebugger
+!xcdebugger/*.xcbkptlist
